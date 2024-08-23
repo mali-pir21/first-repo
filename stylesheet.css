@@ -11,4 +11,9 @@ nav ul {
 nav li {
 	display: table-cell
 }
+header{ font-weight: bold;
+       font-color: #800020;
+       
+	
+}
 
